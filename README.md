@@ -18,4 +18,6 @@ UNSAFE USER
 4. Can view Government related schemes which can provide help in case of collateral damage (life loss/ property loss)
 
 SAFE USER
+1. Mostly the major loss that happens after a disaster, which we feel, is when people(especially lower class) become homeless which leads to major need of employment.
+2. So, if there is a way out, where even the safe people can help the unsafe people, then it can give birth to deeper sense for humanities among masses
 
