@@ -9,7 +9,7 @@ There will be three types of users: Safe, Unsafe and Rescue team.
 Mostly the major loss that happens after a disaster is when people(uspecially lower class) become homeless which leads to major need of employment which led us to introduce the safe user mode apart from the unsafe user and relief team user.
 
 
-RELIEF TEAM USER
+RESCUE TEAM USER
 1. Register in the app about the location of the rescue centre
 2. Be alerted of the occurence of a natural disaster in prior using weather forecast information 
 3. Notify unsafe users about the rescue centre closest to their area
