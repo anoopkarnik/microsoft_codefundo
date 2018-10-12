@@ -2,9 +2,10 @@
 
 Be Safe - (Every life saved counts) 
 
-The application would be used to manage natural disasters. We would be dividing the application based on the user mode. We would be introducing three types of users. 
+The application would be used to manage natural disasters. We would be dividing the application based on the user mode. We would be introducing three types of users. Mostly the major loss that happens after a disaster is when people(uspecially lower class) become homeless which leads to major need of employment which led us to introduce the safe user mode apart from the unsafe user and relief team user
 
-RELIEF TEAM 
+
+RELIEF TEAM USER
 1. Register in the app about the location of the rescue centre
 2. Be alerted of the occurence of a natural disaster in prior using weather forecast information 
 3. Notify unsafe users about the rescue centre closest to their area
@@ -18,6 +19,7 @@ UNSAFE USER
 4. Can view Government related schemes which can provide help in case of collateral damage (life loss/ property loss)
 
 SAFE USER
-1. Mostly the major loss that happens after a disaster, which we feel, is when people(especially lower class) become homeless which leads to major need of employment.
-2. So, if there is a way out, where even the safe people can help the unsafe people, then it can give birth to deeper sense for humanities among masses
+1. Register in the app with information about the location 
+2. Can provide information of basic necessities if available with them to rescue centres
+3. Can provide employment opportunity for unsafe users if available via the rescue centre
 
